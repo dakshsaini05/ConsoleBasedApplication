@@ -16,6 +16,7 @@ It is designed as a beginner friendly project to understand application flow and
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📂 Project Structure
 com.daksh.userapp
+
 │
 
 ├── MainApp.java      → Handles user interaction (UI / Menu)
