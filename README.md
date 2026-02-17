@@ -17,8 +17,11 @@ It is designed as a beginner friendly project to understand application flow and
 📂 Project Structure
 com.daksh.userapp
 │
+
 ├── MainApp.java      → Handles user interaction (UI / Menu)
+
 ├── User.java         → Model class (User entity)
+
 └── UserService.java  → Business logic & data handling
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ⚙️ Features
